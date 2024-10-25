@@ -51,7 +51,17 @@ Check the `viz/` directory for scripts to generate visualizations of the benchma
 
 If you use AMUSD in your research, please cite our paper:
 
-[Citation information to be added]
+```
+@misc{mcdanel2024amusdasynchronousmultidevicespeculative,
+      title={AMUSD: Asynchronous Multi-Device Speculative Decoding for LLM Acceleration}, 
+      author={Bradley McDanel},
+      year={2024},
+      eprint={2410.17375},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.17375}, 
+}
+```
 
 ## License
 
